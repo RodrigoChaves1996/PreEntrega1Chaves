@@ -7,3 +7,8 @@
   box-sizing: border-box;
 
 }
+
+body {
+  background-image: url("./img/FS-LOGO.jpg");
+  background-repeat: no-repeat; 
+}

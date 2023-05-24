@@ -1,0 +1,17 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+h1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(201, 16, 16); }
