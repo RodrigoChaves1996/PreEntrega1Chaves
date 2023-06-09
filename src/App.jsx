@@ -5,7 +5,7 @@ const App = () => {
 
   return (<div>
       <Navbar />
-      <ItemListContainer greeting={'Los mejores precios en Accesorios'}/>
+      <ItemListContainer greeting={'Los mejores precios en Accesorios y Productos'}/>
   </div>
   )
 }
